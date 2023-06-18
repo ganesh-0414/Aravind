@@ -1,0 +1,138 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .import{
+    padding: 30px;
+    text-align: right;
+    
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(76, 255, 76);
+    
+  
+  }
+
+
+  #game{
+    border: 5px solid black;
+    background-image: url('back.webp');
+    margin-top: 70px;
+    padding: 40px;
+    border-radius: 15px
+  }
+  
+  #play{
+    border: 4px solid rgb(33, 199, 255);
+    background-image: url('fashion\ background\ 2.jpg');
+    margin-top: 60px;
+    margin-bottom: 30px;
+    padding: 40px;
+    border-radius: 17px;
+
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap:  wrap;
+    background-color: rgb(255, 255, 255);
+    margin-top:70px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+
+  }
+  
+  .product {
+    flex: 0 0 25%;
+    padding: 50px;
+    text-align: center;
+    border: 5px solid black;
+    background-color:rgb(188, 238, 255);
+    border-radius: 30px;
+    margin-bottom: 18px;
+    margin-top: 25px;
+    margin-right: 10px
+    
+
+  }
+  
+  .product img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .sorting {
+    text-align: right;
+    margin-bottom: 20px;
+  }
+  
+  h3, p {
+    margin: 7px 0;
+  }
+
+
+
+
+
+
+
+  
+  footer {
+    background-color: rgb(160, 255, 160);
+    padding: 20px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .footer-column {
+    width: 30%;
+    margin-bottom: 20px;
+  }
+  
+  .footer-column h2 {
+    font-size: 27px;
+    margin-bottom: 15px;
+  }
+  
+  .footer-column p {
+    font-size: 17px;
+    line-height: 1.5;
+  }
+  
+  .social-media li {
+    display: inline-block;
+    margin-right: 13px;
+  }
+  
+  .social-media li a {
+    color: #000000;
+    font-size: 27px;
+  }
+  
+  .footer-bottom {
+    margin-top: 20px;
+    border-top: 2px solid #1b43c4;
+    padding-top: 10px;
+    font-size: 17px;
+    text-align: center;
+  }
+  
+  
