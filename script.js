@@ -2,7 +2,7 @@ function sortProducts() {
     var sortOption = document.getElementById("sort").value;
     var productList = document.querySelector(".product-list");
     var products = Array.from(document.querySelectorAll(".product"));
-  
+  //hello
     switch (sortOption) {
       case "priceAsc":
         products.sort(function (a, b) {
